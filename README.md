@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Romika
-- 👀 I’m interested in Python, HTML, CSS, JS and Mobile Applications.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in Python, Java, JS and Mobile Applications.
+- 🌱 I’m currently learning Full Stack Software Development.
 - 📫 How to reach me @romikachaudhari09@gmail.com
 
 <!---
