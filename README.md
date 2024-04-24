@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Romika
-- 👀 I’m interested in Python, Java, JS and Mobile Applications.
+- 👀 I’m interested in JavaScript, React, Python, Java, and Mobile Applications.
 - 🌱 I’m currently learning Full Stack Software Development.
 - 📫 How to reach me @romikachaudhari09@gmail.com
 
