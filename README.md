@@ -19,7 +19,7 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
 
 ### 📊 GitHub Stats  
-![Romika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)  
+![Romika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Romsh1&show_icons=true&theme=radical)  
 
 ---
 
