@@ -3,7 +3,7 @@
 
 ### 👩‍💻 About Me  
 - 🌍 Passionate about **Web Development & Technology**  
-- 💡 Interested in **HTML, CSS, React, Node.js, Next.js, MongoDB, MySQL**  
+- 💡 Interested in **HTML, CSS, JavaScript, React, Node.js, Next.js, .NET, MongoDB, MySQL**  
 - 📈 Recently exploring **Data Analytics with Python, Pandas, and Tableau**  
 
 ### 🛠 Tech Stack  
