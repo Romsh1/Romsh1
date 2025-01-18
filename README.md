@@ -1,4 +1,4 @@
-# Hi there, I'm Romika Chaudhary! 👋  
+# Hi there, I'm Romika Chaudhari! 👋  
 ## 🚀 Full Stack Developer | 📊 Data Analytics Enthusiast  
 
 ### 👩‍💻 About Me  
